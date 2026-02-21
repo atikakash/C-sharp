@@ -1,0 +1,69 @@
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\Super Shop Management.csproj.AssemblyReference.cache
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Properties.Resources.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\Super Shop Management.csproj.GenerateResource.cache
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\Super Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\bin\Debug\SuperShopManagement.exe.config
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\bin\Debug\SuperShopManagement.exe
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\bin\Debug\SuperShopManagement.pdb
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.pnladd.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Admin.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.AdminProfile.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Allproduct.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Login.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Modsale.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Product.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Salesman.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.Sell.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.UCAddsalesman.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.UCproduct.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.UCviewuserpnl.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.UserControl1.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.viewproduct.resources
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.exe
+C:\Users\srsia\Desktop\PharmacyManagement\PharmacyManagement\obj\Debug\SuperShopManagement.pdb
+F:\PharmacyManagement\SuperShopManagement\bin\Debug\SuperShopManagement.exe.config
+F:\PharmacyManagement\SuperShopManagement\bin\Debug\SuperShopManagement.exe
+F:\PharmacyManagement\SuperShopManagement\bin\Debug\SuperShopManagement.pdb
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\Super Shop Management.csproj.AssemblyReference.cache
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.pnladd.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Admin.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.AdminProfile.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Allproduct.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Login.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Modsale.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Product.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Properties.Resources.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Salesman.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Sell.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.UCAddsalesman.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.UCproduct.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.UCviewuserpnl.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.UserControl1.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.viewproduct.resources
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\Super Shop Management.csproj.GenerateResource.cache
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\Super Shop Management.csproj.CoreCompileInputs.cache
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.exe
+F:\PharmacyManagement\SuperShopManagement\obj\Debug\SuperShopManagement.pdb
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\bin\Debug\SuperShopManagement.exe.config
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\bin\Debug\SuperShopManagement.exe
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\bin\Debug\SuperShopManagement.pdb
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\Super Shop Management.csproj.AssemblyReference.cache
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.pnladd.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Admin.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.AdminProfile.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Allproduct.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Login.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Modsale.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Product.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Properties.Resources.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Salesman.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.Sell.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.UCAddsalesman.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.UCproduct.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.UCviewuserpnl.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.UserControl1.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.viewproduct.resources
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\Super Shop Management.csproj.GenerateResource.cache
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\Super Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.exe
+C:\Users\ROYAL\Downloads\Super Shop Management\Super Shop Management\SuperShopManagement\obj\Debug\SuperShopManagement.pdb
